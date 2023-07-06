@@ -29,4 +29,4 @@ After running the code, it should be running a Streamlit within your local machi
 
 If you don't upload any and click the "Classify" button, it will re-ask you to do until you upload one. 
 
-I have also included a deployed Streamlit website in the mail. If you cannot find one, please refer to this [link](https://dog-cat-classifier.streamlit.app/)
+I have also included a deployed Streamlit website in the mail. If you cannot find one, please refer to this [link](https://dogs-cats-classifier.streamlit.app/)
