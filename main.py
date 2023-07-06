@@ -1,3 +1,4 @@
+# Import important libraries
 from keras.models import load_model  
 import tensorflow as tf
 from PIL import Image, ImageOps  
