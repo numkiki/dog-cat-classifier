@@ -1,10 +1,10 @@
-## Directory tree
-
 Exercise1:
 
 + main.py: the source code
 + requirements.txt: packages to install
 + report_ex1.pdf: a report on the model
++ keras_model.h5: model to train
++ labels.txt: text file for class labeling
 
 Exercise2: 
 
